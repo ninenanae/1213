@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Шахматы</string>
+
+    <!-- Titles -->
+    <string name="login_title">ВХОД</string>
+    <string name="menu_title">МЕНЮ</string>
+
+
+
+
+    <string name="score_title">Очки</string>
+
+    <string name="win">Победа</string>
+    <string name="lose">Проигрыш</string>
+
+    <!-- Sub-Title -->
+    <string name="splash_screen_sub_title">ШАХМАТЫ</string>
+
+
+    <!-- Button -->
+    <string name="create_button">Играть с другом</string>
+    <string name="leaderboard_button">Рейтинг</string>
+    <string name="ok_button">OK</string>
+    <string name="play_button">Играть</string>
+    <string name="logout_button">О программе</string>
+
+    <string name="about_prog">Добро пожаловать в мое приложение шахматы!\n\nПриложение создал Ярцев Дмитрий Сергеевич для дипломной работы.\n\nНаслаждайтесь игрой в шахматы на своём мобильном устройстве.</string>
+
+</resources>
